@@ -1,2 +1,2 @@
-# advancedJavaScript
-Starter kit for my JS Courses
+# Homework
+Hoeworks which i write during js camp
